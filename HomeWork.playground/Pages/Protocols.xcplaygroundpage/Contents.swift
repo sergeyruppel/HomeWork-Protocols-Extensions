@@ -196,4 +196,4 @@ func wishHappyBirthday(celebrator: Named2 & Aged) {
 wishHappyBirthday(celebrator: birthdayPerson)
 
 
-//: [Next](@next)
+//: [Extensions](@next)
